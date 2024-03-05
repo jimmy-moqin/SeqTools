@@ -1,0 +1,10 @@
+﻿  Building Custom Rule H:/PySMS/PySMS/xxHash-0.8.2/cmake_unofficial/CMakeLists.txt
+  xxhsum.c
+  xsum_os_specific.c
+  xsum_output.c
+  xsum_sanity_check.c
+  xsum_bench.c
+  正在生成代码...
+  xxhsum.vcxproj -> H:\PySMS\PySMS\xxHash-0.8.2\cmake_unofficial\Release\xxhsum.exe
+  'pwsh.exe' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。

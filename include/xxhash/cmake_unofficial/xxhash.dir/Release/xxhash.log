@@ -1,0 +1,6 @@
+﻿  Building Custom Rule H:/PySMS/PySMS/xxHash-0.8.2/cmake_unofficial/CMakeLists.txt
+  xxhash.c
+    正在创建库 H:/PySMS/PySMS/xxHash-0.8.2/cmake_unofficial/Release/xxhash.lib 和对象 H:/PySMS/PySMS/xxHash-0.8.2/cmake_unofficial/Release/xxhash.exp
+  xxhash.vcxproj -> H:\PySMS\PySMS\xxHash-0.8.2\cmake_unofficial\Release\xxhash.dll
+  'pwsh.exe' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。
